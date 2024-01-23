@@ -1,2 +1,2 @@
 # Paint
-Paint programing 2 lab
+Web based application for a Paint program.
