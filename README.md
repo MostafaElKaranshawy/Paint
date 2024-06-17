@@ -9,6 +9,7 @@
 - [User Guide](#User-Guide)
 - [User Interface](#User-Interface)
 - [Tutorial](#Tutorial)
+- [Contributers](#Contributers)
 
 ## Installation
 
@@ -76,13 +77,12 @@ To use the tools and examples provided in this repository, you need to have npm 
 
 
 
-
-https://github.com/MostafaElKaranshawy/Paint/assets/110842052/5bdc5cec-0a76-4482-bf14-34fa4f5b48af
-
+https://github.com/MostafaElKaranshawy/Paint/assets/110842052/91f02468-f595-4ab6-80ad-854841b06559
 
 
 
-## Contributeres
+
+## Contributers
 ### Front-End
 - [Mustafa ElKaranshawy](https://github.com/MostafaElKaranshawy)
 - [Rowan Gamal](https://github.com/rowanxgamal)
