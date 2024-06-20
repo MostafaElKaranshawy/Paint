@@ -9,7 +9,7 @@
 - [User Guide](#User-Guide)
 - [User Interface](#User-Interface)
 - [Tutorial](#Tutorial)
-- [Contributers](#Contributers)
+- [Contributors](#Contributors)
 
 ## Installation
 
@@ -82,7 +82,7 @@ https://github.com/MostafaElKaranshawy/Paint/assets/110842052/91f02468-f595-4ab6
 
 
 
-## Contributers
+## Contributors
 ### Front-End
 - [Mustafa ElKaranshawy](https://github.com/MostafaElKaranshawy)
 - [Rowan Gamal](https://github.com/rowanxgamal)
